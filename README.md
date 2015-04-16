@@ -79,4 +79,4 @@ Greg Sutcliffe <greg.sutcliffe@gmail.com>
 Support
 -------
 
-Please log tickets and issues at my [github page](https://github/GregSutcliffe/puppet-dirvish)
+Please log tickets and issues at my [github page](https://github.com/GregSutcliffe/puppet-dirvish)
